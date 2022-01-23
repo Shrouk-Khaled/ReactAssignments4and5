@@ -1,0 +1,38 @@
+.div1{
+    /* background-color: cadetblue !important; */
+    /* width:1vw; */
+    height: 400px;
+    background-image: url("coverr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+.inside-div
+{
+    /* background-color: aqua !important; */
+    position: relative;
+    top: 50px;
+    /* margin: 15px; */
+    padding-left: 80px;
+}
+.inside-div h1{
+    margin-left: 50px;
+    color: black;
+}
+.inside-div h2{
+    color: black;
+}
+.inside-div button{
+    margin-left: 12vw;
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+
+}
+.inside-div button:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}

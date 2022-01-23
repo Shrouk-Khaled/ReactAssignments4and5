@@ -1,0 +1,88 @@
+.protofDiv{
+    /* background-color: blanchedalmond; */
+    height: auto;
+    overflow: hidden;
+}
+.protofDiv h4{
+    text-align: center;
+}
+.colorDiv{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    height: auto;
+    overflow: hidden;
+}
+
+.dynamic-card .text-Div{
+    margin-left: 2vw;
+    overflow: hidden;
+    height: 50px
+    /* border-bottom: 1px solid black; */
+}
+.testDiv{
+    height:35vw;
+    /* background-color: black; */
+}
+.imgStyle{
+    width:310px;
+    height: 300px;
+    position: sticky;
+}
+.imgStyle2{
+    width: 28vw;
+    height: 27vw;
+    position: sticky;
+}
+.border-Class{
+    border: 1px solid rgb(135, 185, 135);
+}
+.linkDiv{
+    text-decoration: none;
+    color:white;
+    /* background-color: black; */
+}
+.btn-class{
+    background-color: black !important;
+    border: 1px solid black;
+
+}
+.btn-class2{
+    /* float: right; */
+    position: relative;
+    left: 82vw;
+    /* background-color: blanchedalmond; */
+    background-color: black ;
+    border: 1px solid black;
+}
+.btn-class:hover{
+    border: 1px solid black;
+    background-color: white;
+}
+.btn-class2:hover{
+    border: 1px solid black;
+    background-color: white;
+}
+.icon-Fav{
+    color:black;
+    margin-top: 10px;
+    margin-right:  5px;
+    cursor: pointer;
+}
+.icon-Fav2{
+    color:red;
+    margin-top: 10px;
+    margin-right:  5px;
+    cursor: pointer;
+}
+.btn-test{
+    background-color: rgb(59, 97, 99) !important;
+    color:white;
+    border: 1px solid rgb(59, 97, 99);
+    margin-left: 15px;
+}
+.btn-test:hover{
+    color:black;
+    background-color: brown;
+
+}

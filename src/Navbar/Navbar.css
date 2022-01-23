@@ -1,0 +1,16 @@
+.icon-div{
+    color:white;
+    margin-top: 10px;
+    margin-right:  5px;
+}
+.icon-div:hover{
+    color:red;
+    cursor: pointer;
+}
+.icon-div2{
+    color:white;
+    margin-top: 10px;
+}
+.langLi{
+    cursor: pointer;
+}

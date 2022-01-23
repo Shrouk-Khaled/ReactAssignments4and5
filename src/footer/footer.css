@@ -1,0 +1,39 @@
+.footerDiv
+{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    overflow: hidden;
+}
+.leftFooter{
+    /* background-color: cadetblue; */
+   
+}
+.leftFooter span{
+    position: relative;
+    top: 70px;
+    left: 300px;
+}
+.leftFooter p
+{
+    position: relative;
+    top: 65px;
+    left: 310px;
+}
+.centerFooter button{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    position: relative;
+    top: 40px;
+    left: 150px;
+}
+.centerFooter button:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid cadetblue;
+}
+.iconDiv span
+{
+    margin: 10px;
+}

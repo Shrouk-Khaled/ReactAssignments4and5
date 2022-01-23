@@ -1,0 +1,25 @@
+.skillsDiv{
+    height: 500px;
+    background-color: rgb(146, 143, 143);
+    color: black;
+    overflow: hidden;
+}
+.skillsDiv h1,h3{
+    text-align: center;
+}
+.contentDiv{
+    height: 200px;
+    overflow: hidden;
+}
+.rightSkills{
+    /* background-color: turquoise; */
+}
+.rightSkills p{
+    text-align: center;
+}
+.leftSkills {
+    padding:4vw
+}
+.leftSkills ul{
+    list-style: none;
+}

@@ -1,0 +1,25 @@
+.protofDiv{
+    /* background-color: blanchedalmond; */
+    height: auto;
+    overflow: hidden;
+}
+.protofDiv h1{
+    border-bottom: 1px solid black;
+}
+.colorDiv{
+    background-color: rgb(138, 132, 132);
+    color: white;
+    border-radius: 2%;
+    height: 30vh;
+    overflow: hidden;
+}
+.colorDiv1{
+    background-color: rgb(46, 133, 133);
+    color: white;
+    border-radius: 2%;
+    height: 30vh;
+}
+.dynamic-card .text-Div{
+    margin-left: 2vw;
+    /* border-bottom: 1px solid black; */
+}
